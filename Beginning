@@ -1,0 +1,15 @@
+/// Objeto en Java //////
+Los objetos en Java tienen estados y comportamientos. 
+
+Ejemplo: Un gato tiene estados: su nombre es Furr, el color es rojo, el dueño es John; gato también tiene comportamiento Ahora Furr está durmiendo. 
+También podía ronronear, caminar, etc. Un objeto es una instancia de una clase.
+
+////// Clase en Java /////
+Clase es un modelo o plantilla o plano del objeto. Describe el comportamiento y afirma que el objeto de su tipo admite. Por ejemplo, el Gato clase tiene su nombre, color, propietario; El gato también tiene comportamientos como comer, ronronear, caminar, dormir.
+
+///// Métodos en Java /////
+Los métodos son para describir las lógicas, manipular datos y ejecutar todas las acciones. Cada método define el comportamiento. Una clase puede contener muchos métodos. Por ejemplo podemos escribir un método dormir() para Gato clase (dormir) o ronroneo() para ronronear.
+Variables de instancia en Java
+Cada objeto tiene un conjunto único de variables de instancia. El estado del objeto suele generarse mediante los valores asignados a estas variables de instancia. Por ejemplo, el nombre o la edad del gato podrían ser una variable. 
+
+Vamos a empezar con el programa Java más sencillo. Usando este ejemplo, entenderemos los conceptos básicos de la sintaxis de Java y luego los veremos más de cerca.
